@@ -2,7 +2,7 @@
 
 ## Live Preview: [Open Link][preview]
 
-Coded by - [Atif Hasan](http://instagram.com/atif_hasan_fahim/) | [FR Softwares](http://fr-softwares.netlify.app/)
+Coded by - [Atif Hasan](http://instagram.com/atif_hasan_250/) | [FR Softwares](http://fr-softwares.netlify.app/)
 
 ## Project Details
 
@@ -34,5 +34,5 @@ This website is made for educational purposes. Also, this will be free to use. T
 
 # If you like the tutorial, please share this with others.
 
-[preview]: https://atif-hasan.netlify.app/
+[preview]: https://atif-hasan-2.vercel.app/
 [frsoftwares-website]: https://fr-softwares.netlify.app/
